@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://65f5d3745ee8bcd926de8af7--unrivaled-cranachan-d6ecc1.netlify.app/
+          Live Project : https://quiz-app-b698.onrender.com/
 </h3>
 <br />
 
