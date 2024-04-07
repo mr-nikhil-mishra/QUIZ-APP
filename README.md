@@ -1,5 +1,5 @@
 <h1 align="center">
-       ✨  The BrainyBowl (A Quiz Web App)  ✨
+       ✨  The Brainy (A Quiz Web App)  ✨
 </h1>
 
 <div align="center">
